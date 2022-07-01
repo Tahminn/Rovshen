@@ -1,0 +1,10 @@
+{
+    "serverName" : "https://localhost:7164",
+    "serverNameForAccount" : "https://localhost:7164/api/Account",
+    "serverNameForPatients" : "https://localhost:7164/api/Patients",
+    "serverNameForNurses" : "https://localhost:7164/api/Nurses",
+    "serverNameForReceptionists" : "https://localhost:7164/api/Receptionists",
+    "serverNameForDoctors" : "https://localhost:7164/api/Doctors",
+    "serverNameForRoles" : "https://localhost:7164/api/Roles",
+    "serverNameForPermision" : "https://localhost:7164/api/Permission"
+}
